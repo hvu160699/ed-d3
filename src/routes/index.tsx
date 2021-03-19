@@ -8,6 +8,7 @@ const routes = [
   { name: "index", path: RoutePath.Index, exact: true },
   { name: "basic-usage", path: RoutePath.BasicUsage, exact: false },
   { name: "curved-line-chart", path: RoutePath.CurvedLineChart, exact: false },
+  { name: "axes-and-scales", path: RoutePath.AxesAndScales, exact: false }
 ];
 
 const Routes = (
