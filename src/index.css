@@ -13,5 +13,6 @@ code {
 }
 
 svg {
-  background: whitesmoke
+  background: whitesmoke;
+  overflow: visible;
 }
